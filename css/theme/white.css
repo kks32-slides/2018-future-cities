@@ -16,7 +16,7 @@ body {
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 28px;
+  font-size: 42px;
   font-weight: normal;
   color: #222; }
 
@@ -54,9 +54,8 @@ body {
   text-shadow: none;
   word-wrap: break-word; }
 
-
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2.0em; }
 
 .reveal h2 {
   font-size: 1.5em; }
@@ -74,6 +73,7 @@ body {
  * OTHER
  *********************************************/
 .reveal p {
+  font-size: 0.8em;
   margin: 20px 0;
   line-height: 1.3; }
 
